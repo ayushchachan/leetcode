@@ -2,3 +2,4 @@
 
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
+        return 0
